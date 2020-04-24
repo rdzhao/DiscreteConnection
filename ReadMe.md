@@ -1,3 +1,5 @@
+![alt text](https://github.com/rdzhao/DiscreteConnection/blob/master/figs/teaser.png)
+
 # Overview
 
 This code is an implementation for paper "Discrete Connection and Covariant Derivative for Vector Field Analysis and Design".
